@@ -17,7 +17,7 @@ wget https://avi.ethz.ch//publications/2022/lidar_snow_simulation/snowflakes.zip
 
 ```
 [running simulation codes on dataset]
-python3 generate_snow_[dataset].py --severity 1
+python3 generate_snow_[dataset].py --severity 0
 ```
 
 ---
